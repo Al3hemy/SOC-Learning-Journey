@@ -144,11 +144,7 @@ These helped reinforce everything practically, not just theoretically.
 
 This module didn’t just teach concepts, it changed how I see technology.
 
+
 I’m more aware now, more curious, and honestly more cautious. It feels like I’ve just opened the door into cybersecurity, and now I understand why it actually matters.
-
----
-
-If you like this style, I can:
-
-* Turn this into a **repeatable template for all your modules**
-* Or help you design a **clean, premium-looking GitHub README (with visuals)** so your repo looks like a product, not notes 👀
+![image-1774296833037](https://github.com/user-attachments/assets/6a93aa96-ad56-4dee-a005-ffe18d2497a9)
+![image-1774296821425](https://github.com/user-attachments/assets/3c06c9e8-a930-4226-9357-216b1b671243)
